@@ -13,9 +13,9 @@
  
 | № | Проект | Образцы / локус | Статус |
 |---|--------|------------------|--------|
-| 1 | [Hi-C](#-проект-1-hi-c) | MoPh7, MoPh11, MoPh14, MoPh15 | Выполнено |
-| 2 | [RNA-seq / CAGE](#-проект-2-rna-seq--cage) | `chr3:99.31–99.34 Mb` | Выполнено |
-| 3 | [ChIP-seq](#-проект-3-chip-seq) | `chr20:33.44–33.45 Mb` | Выполнено |
+| 1 | [Hi-C](notebooks/project1_hic.ipynb) | MoPh7, MoPh11, MoPh14, MoPh15 | Выполнено |
+| 2 | [RNA-seq / CAGE](notebooks/project2_rnaseq_cage.ipyn) | `chr3:99.31–99.34 Mb` | Выполнено |
+| 3 | [ChIP-seq](notebooks/project3_chipseq.ipyn) | `chr20:33.44–33.45 Mb` | Выполнено |
  
 ---
  
