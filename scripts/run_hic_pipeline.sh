@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-############################################
-### КОНФИГ ###
-############################################
+
 
 BASE_URL="https://genedev.bionet.nsc.ru/ftp/_RawReads/2025-05-23MyGenetics"
 
