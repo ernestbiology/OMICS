@@ -1,10 +1,7 @@
 <div align="center">
-# 🧬 Отчёт по практике курса OMICS
+#  Отчёт по практике курса OMICS
  
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Topics](https://img.shields.io/badge/topics-Hi--C%20%7C%20RNA--seq%2FCAGE%20%7C%20ChIP--seq-blue)
-![Language](https://img.shields.io/badge/lang-RU-red)
- 
+
 </div>
 Репозиторий содержит краткие отчёты по трём практическим проектам курса OMICS — ноутбуки с описанием воркфлоу, ключевыми командами, интерпретацией результатов и выводами.
  
@@ -16,9 +13,9 @@
  
 | № | Проект | Образцы / локус | Статус |
 |---|--------|------------------|--------|
-| 1 | [Hi-C](#-проект-1-hi-c) | MoPh7, MoPh11, MoPh14, MoPh15 | ✅ |
-| 2 | [RNA-seq / CAGE](#-проект-2-rna-seq--cage) | `chr3:99.31–99.34 Mb` | ✅ |
-| 3 | [ChIP-seq](#-проект-3-chip-seq) | `chr20:33.44–33.45 Mb` | ✅ |
+| 1 | [Hi-C](#-проект-1-hi-c) | MoPh7, MoPh11, MoPh14, MoPh15 | Выполнено |
+| 2 | [RNA-seq / CAGE](#-проект-2-rna-seq--cage) | `chr3:99.31–99.34 Mb` | Выполнено |
+| 3 | [ChIP-seq](#-проект-3-chip-seq) | `chr20:33.44–33.45 Mb` | Выполнено |
  
 ---
  
